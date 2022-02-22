@@ -1,0 +1,50 @@
+from . import views
+from django.urls import path
+
+urlpatterns = [
+    path('', views.index, name='index'),
+    path('logout', views.logout, name='logout'),
+    path('index2', views.index2, name='index2'),
+    path('index3', views.index3, name='index3'),
+    path('checkuser', views.checkuser, name='checkuser'),
+    path('checkuser1', views.checkuser1, name='checkuser1'),
+    path('admin1', views.admin1, name='admin1'),
+    path('dashboard', views.dashboard, name='dashboard'),
+    path('dashboard1', views.dashboard1, name='dashboard1'),
+    path('dashboard2', views.dashboard2, name='dashboard2'),
+    path('ecg', views.ecg, name='ecg'),
+    path('ecg1', views.ecg1, name='ecg1'),
+    path('ecg2', views.ecg2, name='ecg2'),
+    path('pulseRate', views.pulseRate, name='pulseRate'),
+    path('pulseRate1', views.pulseRate1, name='pulseRate1'),
+    path('pulseRate2', views.pulseRate2, name='pulseRate2'),
+    path('spO2', views.spO2, name='spO2'),
+    path('spO21', views.spO21, name='spO21'),
+    path('spO22', views.spO22, name='spO22'),
+    path('adduser', views.adduser, name='adduser'),
+    path('password', views.password, name='password'),
+    path('validate', views.otpvalidate, name='validate'),
+    path('temperature', views.temperature, name='temperature'),
+    path('temperature1', views.temperature1, name='temperature1'),
+    path('temperature2', views.temperature2, name='temperature2'),
+    path('patientlist', views.patientlist, name='patientlist'),
+    path('display', views.dispaly, name='display'),
+    path('modify', views.modify, name='modify'),
+    path('mapping', views.mapping, name='mapping'),
+    path('updaterecords', views.updaterecords1, name='updaterecords'),
+    path('checkstatus', views.checkstatus, name='checkstatus'),
+    path('modifystatus', views.modifystatus, name='modifystatus'),
+    #path('chart', line_chart, name='line_chart'),
+    path('chartJSONspo21', views.line_chart_json_spo21, name='line_chart_json_spo21'),
+    path('chartJSONspo22', views.line_chart_json_spo22, name='line_chart_json_spo22'),
+    path('chartJSONecg1', views.line_chart_json_ecg1, name='line_chart_json_ecg1'),
+    path('chartJSONecg2', views.line_chart_json_ecg2, name='line_chart_json_ecg2'),
+    path('chartJSONprate1', views.line_chart_json_prate1, name='line_chart_json_prate1'),
+    path('chartJSONprate2', views.line_chart_json_prate2, name='line_chart_json_prate2'),
+    path('chartJSONtemp1', views.line_chart_json_temp1, name='line_chart_json_temp1'),
+    path('chartJSONtemp2', views.line_chart_json_temp2, name='line_chart_json_temp2'),
+
+
+
+
+]

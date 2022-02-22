@@ -1,0 +1,1 @@
+<?php$servername = "sdb-c.hosting.stackcp.net";$username = "monitoringsystem-3137313ba8";$password = "(gaOs=>dCjR8";$dbname = "monitoringsystem-3137313ba8";$conn = new mysqli($servername, $username, $password, $dbname);if (!$conn){	die("Connection Failed: ". mysqli_connect_error());}/*else{    echo("connected successfully...");} */?>
