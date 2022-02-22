@@ -25,9 +25,9 @@ Both doctors and patients are able to see their respective data and take actions
 <h3 align="left">Sensors Used:</h3>
 <p align="left">
 <img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/IOT%20CODE/esp8266.jpg" alt="esp8266" width="200" height="150"/>
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/IOT%20CODE/MLX.jpg" alt="MLX" width="200" height="150"/>
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/IOT%20CODE/AD8232_ECG.jpg" alt="AD8232_ECG" width="200" height="150"/>
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/IOT%20CODE/MAX30100.jpg" alt="MAX30100" width="200" height="150"/>
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/IOT%20CODE/MLX.jpg" alt="MLX" width="200" height="150"/>
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/IOT%20CODE/AD8232_ECG.jpg" alt="AD8232_ECG" width="200" height="150"/>
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/IOT%20CODE/MAX30100.jpg" alt="MAX30100" width="200" height="150"/>
 </p>
 
 <h3 align="left">Sensors Connections:</h3>
@@ -42,21 +42,21 @@ Both doctors and patients are able to see their respective data and take actions
 
 <h3 align="left">ECG sensor attachment to the body:</h3>
 <p align="left">
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/IOT%20CODE/ecg_placement.jpg" alt="ecg" width="400" height="200"/>
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/IOT%20CODE/ecg_placement.jpg" alt="ecg" width="400" height="200"/>
 </p>
 
 <mark><h3 align="left">UI Demo:</h3></mark>
 <p align="left">
 <h4>&#x25CF; Doctor Profile:</h4>
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docdahboard.PNG" alt="docdahboard" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docecg.PNG" alt="docecg" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docpulserate.PNG" alt="docpulserate" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docspo2.PNG" alt="docspo2" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/doctemp.PNG" alt="doctemp" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/docdahboard.PNG" alt="docdahboard" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/docecg.PNG" alt="docecg" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/docpulserate.PNG" alt="docpulserate" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/docspo2.PNG" alt="docspo2" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/doctemp.PNG" alt="doctemp" />
 <h4>&#x25CF; Patient Profile:</h4>
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/patient_dashboard.PNG" alt="patient_dashboard" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/ECG.PNG" alt="ecg" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/pulserate.PNG" alt="pulserate" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/spo2.PNG" alt="spo2" />
-<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/temp.PNG" alt="temp" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/patient_dashboard.PNG" alt="patient_dashboard" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/ECG.PNG" alt="ecg" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/pulserate.PNG" alt="pulserate" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/spo2.PNG" alt="spo2" />
+<img src="https://github.com/Dhruvkumar0463/Health-Monitoring_System/blob/master/Django%20Code/Screenshots/temp.PNG" alt="temp" />
 </p>
